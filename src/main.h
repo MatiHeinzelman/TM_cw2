@@ -13,6 +13,23 @@
 #define MAX_G 63U
 #define MAX_B 31U
 
+
+void WypiszMenu(void);
+int main2(void) ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Definicja struktury kwadrat z polami "upakowanymi" i wyrównanymi do 4-ech bajtów
 typedef   struct {
 	unsigned int x, y , size;

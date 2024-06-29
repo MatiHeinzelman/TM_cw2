@@ -31,12 +31,8 @@ switch(AppState) {
 case A_MenuGlowne:
 RysujPodswietlenie(PozycjePionoweWpisowMenu[AktualnaPozycjaMenu]);
 WypiszMenu();
-if(GetButton9()) {
-AppState = A_AktywacjaWyboruMenu;
-MenuActivationTimer = 20;
-break;
-}
-unsigned int JPos = GetJoyPos();
+
+unsigned int JPos = 123;
 if(JPos > 3000) {
 MenuAnimationTimer = 100;
 AppState = A_AnimPodswietleniaMenu;
@@ -135,18 +131,4 @@ LCD_BUF[y * LCD_WIDTH + x] = colors[2]; // Niebieski segment
 colorIndex = (colorIndex + 1) % 3; // Cykliczne przełączanie się między kolorami
 }
 }
-unsigned int GetJoyPos(void) {
-static unsigned int MOCK_POS = 4095;
-if (AktualnaPozycjaMenu == M_oAplikacji) MOCK_POS = 0;
-if (AktualnaPozycjaMenu == M_Oswietlenie) MOCK_POS = 4095;
-if (ExtraDelay > 0) {ExtraDelay--; return 2000; }
-return MOCK_POS;
-}
-unsigned int GetButton9(void) {
-return 0;
-}
-unsigned int GetButton10(void) {
-unsigned int button_10 = 0;
-// Odczyt stanu przycisku 10
-return 0;
-}
+
