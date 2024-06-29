@@ -1,0 +1,2229 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+                              ./src/main.o (SystemClock_Config)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+                              (Reset_Handler)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o) (LTDC_IRQHandler)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o) (SystemInit)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                              ./src/main.o (HAL_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o) (HAL_NVIC_SetPriorityGrouping)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o) (HAL_LTDC_IRQHandler)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o) (HAL_PWREx_EnableOverDrive)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o) (HAL_RCC_OscConfig)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o) (HAL_RCCEx_PeriphCLKConfig)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o) (BSP_LED_On)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+                              ./src/main.o (BSP_LCD_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+                              ./src/main.o (BSP_SDRAM_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o) (Font16)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o) (Font24)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o) (HAL_DMA_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o) (HAL_DMA2D_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o) (HAL_GPIO_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o) (HAL_I2C_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o) (HAL_SDRAM_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o) (HAL_SPI_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o) (FMC_SDRAM_Init)
+C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o) (ili9341_drv)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o) (__aeabi_i2f)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o) (__aeabi_fdiv)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o) (__aeabi_f2uiz)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o (exit)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o) (__stdio_exit_handler)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o) (_fwalk_sglue)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o) (__sread)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o (memset)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_close_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o) (errno)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o) (_impure_ptr)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_lseek_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_read_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_write_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o) (__call_exitprocs)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o) (atexit)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o) (_free_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o) (_malloc_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o) (__malloc_lock)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o) (_fclose_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o) (__sflush_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o) (_sbrk_r)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o) (__libc_fini_array)
+c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                              c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crti.o
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .debug_line    0x00000000       0x76 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .debug_line_str
+                0x00000000       0xe7 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .debug_info    0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .debug_abbrev  0x00000000       0x14 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .debug_str     0x00000000       0xec c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000       0xb8 ./src/assembly.o
+ .data          0x00000000       0x10 ./src/assembly.o
+ .bss           0x00000000        0x0 ./src/assembly.o
+ .debug_line    0x00000000       0x8a ./src/assembly.o
+ .debug_line_str
+                0x00000000       0x57 ./src/assembly.o
+ .debug_info    0x00000000       0x25 ./src/assembly.o
+ .debug_abbrev  0x00000000       0x14 ./src/assembly.o
+ .debug_aranges
+                0x00000000       0x20 ./src/assembly.o
+ .debug_str     0x00000000       0x58 ./src/assembly.o
+ .ARM.attributes
+                0x00000000       0x1c ./src/assembly.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text.GetButton10
+                0x00000000        0x4 ./src/main.o
+ .rodata.LCD_BUF
+                0x00000000        0x4 ./src/main.o
+ .rodata.LCD_FB
+                0x00000000        0x4 ./src/main.o
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+ .text.Error_Handler
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+ .text          0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0x70 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+ .data.AHBPrescTable
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_MspDeInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DeInit
+                0x00000000       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_SuspendTick
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_ResumeTick
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_GetREVID
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_GetDEVID
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_EnableMemorySwappingBank
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text.HAL_DisableMemorySwappingBank
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x64 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x68 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_MspDeInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_DeInit
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_ReloadEventCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_ConfigColorKeying
+                0x00000000       0x40 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_ConfigCLUT
+                0x00000000       0x84 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_EnableColorKeying
+                0x00000000       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_DisableColorKeying
+                0x00000000       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_EnableCLUT
+                0x00000000       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_DisableCLUT
+                0x00000000       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_EnableDither
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_DisableDither
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetWindowSize
+                0x00000000      0x13c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetWindowPosition
+                0x00000000      0x14c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetPixelFormat
+                0x00000000      0x150 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetAlpha
+                0x00000000      0x158 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetPitch
+                0x00000000       0x7c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_ProgramLineEvent
+                0x00000000       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_Relaod
+                0x00000000       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_ConfigLayer_NoReload
+                0x00000000      0x19c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetWindowSize_NoReload
+                0x00000000      0x13c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetWindowPosition_NoReload
+                0x00000000      0x14c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetPixelFormat_NoReload
+                0x00000000      0x150 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetAlpha_NoReload
+                0x00000000      0x158 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetAddress_NoReload
+                0x00000000      0x15c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_SetPitch_NoReload
+                0x00000000       0x6c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_ConfigColorKeying_NoReload
+                0x00000000       0x40 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_EnableColorKeying_NoReload
+                0x00000000       0x3c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_DisableColorKeying_NoReload
+                0x00000000       0x3c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_EnableCLUT_NoReload
+                0x00000000       0x3c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_DisableCLUT_NoReload
+                0x00000000       0x3c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_GetState
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text.HAL_LTDC_GetError
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x48 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x00000000       0xb8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_DisableOverDrive
+                0x00000000       0x9c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text.HAL_PWREx_EnterUnderDriveSTOPMode
+                0x00000000       0x98 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_DeInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0xa0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xbc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x40 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+ .text.HAL_RCC_DeInit
+                0x00000000       0x60 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0xec C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.I2Cx_Init.part.0
+                0x00000000       0xe0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.BSP_GetVersion
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.BSP_LED_Init
+                0x00000000       0x78 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.BSP_LED_On
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.BSP_LED_Off
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.BSP_LED_Toggle
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.BSP_PB_Init
+                0x00000000       0x7c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.BSP_PB_GetState
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.IOE_Init
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.IOE_ITConfig
+                0x00000000       0x58 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.IOE_Write
+                0x00000000       0x4c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.IOE_Read
+                0x00000000       0x58 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.IOE_WriteMultiple
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.IOE_ReadMultiple
+                0x00000000       0x48 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.IOE_Delay
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.GYRO_IO_Init
+                0x00000000       0x90 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.GYRO_IO_Write
+                0x00000000       0xfc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.GYRO_IO_Read
+                0x00000000      0x110 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .bss.I2cHandle
+                0x00000000       0x54 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .data.BUTTON_PORT
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .data.GPIO_PORT
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .data.I2cxTimeout
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .rodata.BUTTON_IRQn
+                0x00000000        0x1 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .rodata.BUTTON_PIN
+                0x00000000        0x2 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .rodata.GPIO_PIN
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_GetXSize
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_GetYSize
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_LayerDefaultInit
+                0x00000000       0x90 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SelectLayer
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetLayerVisible
+                0x00000000       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetLayerVisible_NoReload
+                0x00000000       0x20 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetTransparency
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetTransparency_NoReload
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetLayerAddress
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetLayerAddress_NoReload
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetLayerWindow
+                0x00000000       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetLayerWindow_NoReload
+                0x00000000       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetColorKeying
+                0x00000000       0x20 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetColorKeying_NoReload
+                0x00000000       0x20 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_ResetColorKeying
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_ResetColorKeying_NoReload
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_Relaod
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_GetTextColor
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_GetBackColor
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetTextColor
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetBackColor
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_SetFont
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_GetFont
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_ReadPixel
+                0x00000000       0xa0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_Clear
+                0x00000000       0x8c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_ClearStringLine
+                0x00000000       0xe8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DisplayRot90Char
+                0x00000000      0x104 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DisplayRot90StringAt
+                0x00000000       0xd8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DisplayStringAtLine
+                0x00000000       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawHLine
+                0x00000000       0xa0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawVLine
+                0x00000000       0xb0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawLine
+                0x00000000      0x110 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawRect
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawCircle
+                0x00000000      0x1d8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawPolygon
+                0x00000000       0x4c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawEllipse
+                0x00000000      0x174 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawBitmap
+                0x00000000      0x104 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_FillRect
+                0x00000000       0xb8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_FillCircle
+                0x00000000       0xc4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_FillTriangle
+                0x00000000       0xe8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_FillPolygon
+                0x00000000      0x5a8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_FillEllipse
+                0x00000000       0xbc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DisplayOn
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DisplayOff
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text.BSP_LCD_DrawPixel
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .bss.Dma2dHandler
+                0x00000000       0x40 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .text.BSP_SDRAM_ReadData
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .text.BSP_SDRAM_ReadData_DMA
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .text.BSP_SDRAM_WriteData
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .text.BSP_SDRAM_WriteData_DMA
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .text.BSP_SDRAM_Sendcmd
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .text.BSP_SDRAM_DMA_IRQHandler
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Start
+                0x00000000       0x5c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x88 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Abort
+                0x00000000       0x90 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x188 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x1b4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x58 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x70 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_GetState
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_MspInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_Init
+                0x00000000       0x5c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_MspDeInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_DeInit
+                0x00000000      0x108 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_Start
+                0x00000000       0xbc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_Start_IT
+                0x00000000       0xc4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_BlendingStart
+                0x00000000       0xc0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_BlendingStart_IT
+                0x00000000       0xc8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_Abort
+                0x00000000       0x60 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_Suspend
+                0x00000000       0x64 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_Resume
+                0x00000000       0x20 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_EnableCLUT
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_CLUTLoad
+                0x00000000       0xb0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_CLUTLoad_IT
+                0x00000000       0xc4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_CLUTLoading_Abort
+                0x00000000       0x64 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_CLUTLoading_Suspend
+                0x00000000       0x68 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_CLUTLoading_Resume
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_PollForTransfer
+                0x00000000      0x13c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_LineEventCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_CLUTLoadingCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_IRQHandler
+                0x00000000      0x128 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_ConfigLayer
+                0x00000000       0xdc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_ConfigCLUT
+                0x00000000       0xa8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_ProgramLineEvent
+                0x00000000       0x3c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_EnableDeadTime
+                0x00000000       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_DisableDeadTime
+                0x00000000       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_ConfigDeadTime
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_GetState
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text.HAL_DMA2D_GetError
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .comment       0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .ARM.attributes
+                0x00000000       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma2d.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x178 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_TogglePin
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.I2C_MasterRequestWrite
+                0x00000000      0x13c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.I2C_MasterRequestRead
+                0x00000000      0x1b4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.I2C_RequestMemoryRead
+                0x00000000      0x26c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.I2C_RequestMemoryWrite
+                0x00000000      0x194 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_MspInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Init
+                0x00000000       0xec C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_MspDeInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_DeInit
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Transmit
+                0x00000000      0x1b4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Receive
+                0x00000000      0x2a8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Transmit
+                0x00000000      0x224 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Receive
+                0x00000000      0x208 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Transmit_IT
+                0x00000000       0xc0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Receive_IT
+                0x00000000       0xc8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Sequential_Transmit_IT
+                0x00000000       0xcc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Sequential_Receive_IT
+                0x00000000       0xe0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Transmit_IT
+                0x00000000       0xc8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Receive_IT
+                0x00000000       0xc8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Sequential_Transmit_IT
+                0x00000000       0x6c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Sequential_Receive_IT
+                0x00000000       0x6c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_EnableListen_IT
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_DisableListen_IT
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Transmit_DMA
+                0x00000000      0x148 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Receive_DMA
+                0x00000000      0x164 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Transmit_DMA
+                0x00000000      0x180 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Slave_Receive_DMA
+                0x00000000      0x144 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Mem_Write
+                0x00000000      0x1bc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Mem_Read
+                0x00000000      0x2bc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Mem_Write_IT
+                0x00000000       0xcc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Mem_Read_IT
+                0x00000000       0xd0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Mem_Write_DMA
+                0x00000000      0x150 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Mem_Read_DMA
+                0x00000000      0x184 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_IsDeviceReady
+                0x00000000      0x1d8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_MasterTxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_MasterRxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_SlaveTxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_SlaveRxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_AddrCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_ListenCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_MemTxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_MemRxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_EV_IRQHandler
+                0x00000000      0x708 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_ErrorCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.I2C_DMAError
+                0x00000000       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.I2C_DMAXferCplt
+                0x00000000       0x84 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_AbortCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_Master_Abort_IT
+                0x00000000       0x60 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_ER_IRQHandler
+                0x00000000      0x22c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.I2C_DMAAbort
+                0x00000000       0x3c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_GetState
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_GetMode
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text.HAL_I2C_GetError
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .comment       0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .ARM.attributes
+                0x00000000       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_i2c.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_DMA_XferErrorCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_DMA_XferCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_MspDeInit
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_DeInit
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_RefreshErrorCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_IRQHandler
+                0x00000000       0x20 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Read_8b
+                0x00000000       0x48 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Write_8b
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Read_16b
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Write_16b
+                0x00000000       0x40 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Read_32b
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Write_32b
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Read_DMA
+                0x00000000       0x48 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_Write_DMA
+                0x00000000       0x50 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_WriteProtection_Enable
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_WriteProtection_Disable
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_SetAutoRefreshNumber
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_GetModeStatus
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text.HAL_SDRAM_GetState
+                0x00000000        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_Transmit_IT
+                0x00000000       0xd8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_TransmitReceive_IT
+                0x00000000       0xf4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_Receive_IT
+                0x00000000       0xe4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_Transmit_DMA
+                0x00000000       0xd4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_TransmitReceive_DMA
+                0x00000000      0x114 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_Receive_DMA
+                0x00000000       0xec C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_DMAPause
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_DMAResume
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_DMAStop
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_TxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_RxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_TxRxCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_TxHalfCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMAHalfTransmitCplt
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_RxHalfCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMAHalfReceiveCplt
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_TxRxHalfCpltCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMAHalfTransmitReceiveCplt
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_ErrorCallback
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_CloseTx_ISR
+                0x00000000       0xf0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_TxISR_8BIT
+                0x00000000       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_TxISR_16BIT
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_CloseRx_ISR
+                0x00000000       0x78 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_RxISR_8BIT
+                0x00000000       0x5c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_RxISR_16BIT
+                0x00000000       0x5c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_CloseRxTx_ISR
+                0x00000000      0x12c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_2linesTxISR_8BIT
+                0x00000000       0x54 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_2linesRxISR_8BIT
+                0x00000000       0x4c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_2linesRxISR_8BITCRC
+                0x00000000       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_2linesTxISR_16BIT
+                0x00000000       0x50 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_2linesRxISR_16BIT
+                0x00000000       0x48 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_2linesRxISR_16BITCRC
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMAError
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMATransmitCplt
+                0x00000000       0xcc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMAReceiveCplt
+                0x00000000      0x108 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMATransmitReceiveCplt
+                0x00000000      0x164 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_IRQHandler
+                0x00000000       0xf4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_DMAAbortOnError
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_RxISR_8BITCRC
+                0x00000000       0x8c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.SPI_RxISR_16BITCRC
+                0x00000000       0x94 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_GetError
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NORSRAM_Init
+                0x00000000       0x74 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NORSRAM_DeInit
+                0x00000000       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NORSRAM_Timing_Init
+                0x00000000       0x58 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NORSRAM_Extended_Timing_Init
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NORSRAM_WriteOperation_Enable
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NORSRAM_WriteOperation_Disable
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NAND_Init
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NAND_CommonSpace_Timing_Init
+                0x00000000       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NAND_AttributeSpace_Timing_Init
+                0x00000000       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NAND_DeInit
+                0x00000000       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NAND_ECC_Enable
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NAND_ECC_Disable
+                0x00000000       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_NAND_GetECC
+                0x00000000       0x60 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_PCCARD_Init
+                0x00000000       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_PCCARD_CommonSpace_Timing_Init
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_PCCARD_AttributeSpace_Timing_Init
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_PCCARD_IOSpace_Timing_Init
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_PCCARD_DeInit
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_SDRAM_DeInit
+                0x00000000       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_SDRAM_WriteProtection_Enable
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_SDRAM_WriteProtection_Disable
+                0x00000000       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_SDRAM_SetAutoRefreshNumber
+                0x00000000       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text.FMC_SDRAM_GetModeStatus
+                0x00000000        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .text          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .data          0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .bss           0x00000000        0x0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .text.ili9341_WriteReg
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .text.ili9341_WriteData
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .text.ili9341_ReadData
+                0x00000000        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .text          0x00000000      0x21c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x00000000      0x103 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_line_str
+                0x00000000       0xd8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x00000000       0x25 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x00000000       0x14 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_str     0x00000000       0xd7 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x4c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000      0x2a0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x00000000      0x123 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_line_str
+                0x00000000       0xd8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x00000000       0x25 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x00000000       0x14 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_str     0x00000000       0xd7 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00000000       0x38 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000       0x40 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_line    0x00000000       0x5e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_line_str
+                0x00000000       0xd8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_info    0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_abbrev  0x00000000       0x14 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_str     0x00000000       0xd7 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x1c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_info    0x00000000      0x10a c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_abbrev  0x00000000       0xd5 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_loclists
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_line    0x00000000      0x18e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_str     0x00000000      0x227 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x1c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x1c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0xd4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xc8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x3c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_info    0x00000000     0x10a2 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_abbrev  0x00000000      0x462 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_loclists
+                0x00000000      0x2b6 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_aranges
+                0x00000000       0x70 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_rnglists
+                0x00000000      0x123 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_line    0x00000000      0x6ad c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_str     0x00000000      0x799 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x130 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x48 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_info    0x00000000      0x7ed c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_abbrev  0x00000000      0x1d9 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_loclists
+                0x00000000       0x95 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_line    0x00000000      0x252 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_str     0x00000000      0x521 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x40 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_info    0x00000000      0xa6b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_abbrev  0x00000000      0x260 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_loclists
+                0x00000000      0x234 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_aranges
+                0x00000000       0x40 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_rnglists
+                0x00000000       0x2b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_line    0x00000000      0x2e4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_str     0x00000000      0x57e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x8c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .text.memset   0x00000000       0xa4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_info    0x00000000      0x135 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_abbrev  0x00000000       0xb7 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_loclists
+                0x00000000      0x1a5 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_rnglists
+                0x00000000       0x14 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_line    0x00000000      0x23d c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_str     0x00000000      0x215 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_frame   0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_info    0x00000000      0x773 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_abbrev  0x00000000      0x1ec c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_loclists
+                0x00000000       0x4c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_line    0x00000000      0x217 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_str     0x00000000      0x507 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x5c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_info    0x00000000      0x7ee c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_abbrev  0x00000000      0x22b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_loclists
+                0x00000000       0x5e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_line    0x00000000      0x25b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_str     0x00000000      0x530 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x3c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000      0x120 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .debug_info    0x00000000      0x732 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .debug_abbrev  0x00000000      0x185 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .debug_aranges
+                0x00000000       0x18 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .debug_line    0x00000000       0xfe c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .debug_str     0x00000000      0x516 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_info    0x00000000      0x7b3 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_abbrev  0x00000000      0x200 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_loclists
+                0x00000000       0x9d c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_line    0x00000000      0x21d c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_str     0x00000000      0x515 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_info    0x00000000      0x7ca c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_abbrev  0x00000000      0x1ec c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_loclists
+                0x00000000       0x9d c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_line    0x00000000      0x21c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_str     0x00000000      0x515 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_info    0x00000000      0x7d0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_abbrev  0x00000000      0x1f1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_loclists
+                0x00000000       0x9d c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_line    0x00000000      0x21d c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_str     0x00000000      0x517 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xa0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .text._free_r  0x00000000      0x20c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_info    0x00000000      0xb39 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_abbrev  0x00000000      0x290 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_loclists
+                0x00000000      0x489 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_aranges
+                0x00000000       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_rnglists
+                0x00000000       0x1b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_line    0x00000000      0x595 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_str     0x00000000      0x679 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x8c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-freer.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x560 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_info    0x00000000      0xcbd c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_abbrev  0x00000000      0x2d7 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_loclists
+                0x00000000      0xa6b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_rnglists
+                0x00000000       0x4b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_line    0x00000000      0x949 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_str     0x00000000      0x731 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x4c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_info    0x00000000      0x788 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_abbrev  0x00000000      0x1fb c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_loclists
+                0x00000000       0x3a c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_aranges
+                0x00000000       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_rnglists
+                0x00000000       0x19 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_line    0x00000000      0x1e6 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_str     0x00000000      0x593 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .text._fclose_r
+                0x00000000       0xc8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .text.fclose   0x00000000       0x10 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_info    0x00000000      0x8e4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_abbrev  0x00000000      0x2a2 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_loclists
+                0x00000000       0xd4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_aranges
+                0x00000000       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_rnglists
+                0x00000000       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_line    0x00000000      0x357 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_str     0x00000000      0x5d4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_frame   0x00000000       0x3c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fclose.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x120 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x54 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x74 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_info    0x00000000      0xab3 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_abbrev  0x00000000      0x323 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_loclists
+                0x00000000      0x2ce c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_aranges
+                0x00000000       0x30 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_rnglists
+                0x00000000       0x76 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_line    0x00000000      0x532 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_str     0x00000000      0x5dc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x70 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_info    0x00000000      0x799 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_abbrev  0x00000000      0x216 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_loclists
+                0x00000000       0x4c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_aranges
+                0x00000000       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_rnglists
+                0x00000000       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_line    0x00000000      0x217 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_str     0x00000000      0x51a c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20028000         0x00007800         xrw
+ROM              0x20000000         0x00028000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crt0.o
+LOAD ./src/assembly.o
+LOAD ./src/main.o
+LOAD C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libstdc++.a
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libm.a
+START GROUP
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libc.a
+END GROUP
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtn.o
+                0x20030000                _estack = 0x20030000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000800                _Min_Stack_Size = 0x800
+
+.isr_vector     0x20000000      0x1ac
+                0x20000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x20000000      0x1ac C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+                0x20000000                g_pfnVectors
+                0x200001ac                . = ALIGN (0x4)
+
+.text           0x200001ac     0x3050
+                0x200001ac                . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.deregister_tm_clones
+                0x200001ac       0x1c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.register_tm_clones
+                0x200001c8       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x200001ec       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x20000214       0x24 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.SysTick_Handler
+                0x20000238        0x8 ./src/main.o
+                0x20000238                SysTick_Handler
+ .text.System_Init
+                0x20000240       0x14 ./src/main.o
+                0x20000240                System_Init
+ .text.Clear_And_Reload_Screen
+                0x20000254       0x20 ./src/main.o
+                0x20000254                Clear_And_Reload_Screen
+ .text.WypiszMenu
+                0x20000274       0x4c ./src/main.o
+                0x20000274                WypiszMenu
+ .text.RysujPodswietlenie
+                0x200002c0       0xb4 ./src/main.o
+                0x200002c0                RysujPodswietlenie
+ .text.GetJoyPos
+                0x20000374       0x40 ./src/main.o
+                0x20000374                GetJoyPos
+ .text.GetButton9
+                0x200003b4        0x4 ./src/main.o
+                0x200003b4                GetButton9
+ .text.main     0x200003b8      0x134 ./src/main.o
+                0x200003b8                main
+ .text.HAL_LTDC_ReloadEventCallback
+                0x200004ec        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+                0x200004ec                HAL_LTDC_ReloadEventCallback
+ .text.SystemClock_Config
+                0x200004f8       0xb8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+                0x200004f8                SystemClock_Config
+ .text.Reset_Handler
+                0x200005b0       0x50 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+                0x200005b0                Reset_Handler
+ .text.Default_Handler
+                0x20000600        0x2 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+                0x20000600                RTC_Alarm_IRQHandler
+                0x20000600                HASH_RNG_IRQHandler
+                0x20000600                EXTI2_IRQHandler
+                0x20000600                TIM8_CC_IRQHandler
+                0x20000600                UART8_IRQHandler
+                0x20000600                SPI4_IRQHandler
+                0x20000600                TIM1_CC_IRQHandler
+                0x20000600                DMA2_Stream5_IRQHandler
+                0x20000600                DMA1_Stream5_IRQHandler
+                0x20000600                PVD_IRQHandler
+                0x20000600                SDIO_IRQHandler
+                0x20000600                TAMP_STAMP_IRQHandler
+                0x20000600                CAN2_RX1_IRQHandler
+                0x20000600                EXTI3_IRQHandler
+                0x20000600                TIM8_TRG_COM_TIM14_IRQHandler
+                0x20000600                TIM1_UP_TIM10_IRQHandler
+                0x20000600                TIM8_UP_TIM13_IRQHandler
+                0x20000600                I2C3_ER_IRQHandler
+                0x20000600                EXTI0_IRQHandler
+                0x20000600                I2C2_EV_IRQHandler
+                0x20000600                DMA1_Stream2_IRQHandler
+                0x20000600                CAN1_RX0_IRQHandler
+                0x20000600                FPU_IRQHandler
+                0x20000600                OTG_HS_WKUP_IRQHandler
+                0x20000600                LTDC_ER_IRQHandler
+                0x20000600                CAN2_SCE_IRQHandler
+                0x20000600                DMA2_Stream2_IRQHandler
+                0x20000600                SPI1_IRQHandler
+                0x20000600                TIM6_DAC_IRQHandler
+                0x20000600                TIM1_BRK_TIM9_IRQHandler
+                0x20000600                DCMI_IRQHandler
+                0x20000600                CAN2_RX0_IRQHandler
+                0x20000600                DMA2_Stream3_IRQHandler
+                0x20000600                USART6_IRQHandler
+                0x20000600                USART3_IRQHandler
+                0x20000600                CAN1_RX1_IRQHandler
+                0x20000600                UART5_IRQHandler
+                0x20000600                DMA2_Stream0_IRQHandler
+                0x20000600                TIM4_IRQHandler
+                0x20000600                I2C1_EV_IRQHandler
+                0x20000600                DMA1_Stream6_IRQHandler
+                0x20000600                DMA1_Stream1_IRQHandler
+                0x20000600                UART4_IRQHandler
+                0x20000600                TIM3_IRQHandler
+                0x20000600                RCC_IRQHandler
+                0x20000600                TIM8_BRK_TIM12_IRQHandler
+                0x20000600                Default_Handler
+                0x20000600                EXTI15_10_IRQHandler
+                0x20000600                ADC_IRQHandler
+                0x20000600                DMA1_Stream7_IRQHandler
+                0x20000600                SPI5_IRQHandler
+                0x20000600                TIM7_IRQHandler
+                0x20000600                CAN2_TX_IRQHandler
+                0x20000600                TIM5_IRQHandler
+                0x20000600                DMA2_Stream7_IRQHandler
+                0x20000600                I2C3_EV_IRQHandler
+                0x20000600                EXTI9_5_IRQHandler
+                0x20000600                RTC_WKUP_IRQHandler
+                0x20000600                ETH_WKUP_IRQHandler
+                0x20000600                SPI2_IRQHandler
+                0x20000600                OTG_HS_EP1_IN_IRQHandler
+                0x20000600                DMA1_Stream0_IRQHandler
+                0x20000600                CAN1_TX_IRQHandler
+                0x20000600                EXTI4_IRQHandler
+                0x20000600                ETH_IRQHandler
+                0x20000600                OTG_HS_EP1_OUT_IRQHandler
+                0x20000600                WWDG_IRQHandler
+                0x20000600                SPI6_IRQHandler
+                0x20000600                TIM2_IRQHandler
+                0x20000600                OTG_FS_WKUP_IRQHandler
+                0x20000600                TIM1_TRG_COM_TIM11_IRQHandler
+                0x20000600                OTG_HS_IRQHandler
+                0x20000600                DMA2D_IRQHandler
+                0x20000600                EXTI1_IRQHandler
+                0x20000600                UART7_IRQHandler
+                0x20000600                USART2_IRQHandler
+                0x20000600                I2C2_ER_IRQHandler
+                0x20000600                DMA2_Stream1_IRQHandler
+                0x20000600                CAN1_SCE_IRQHandler
+                0x20000600                FLASH_IRQHandler
+                0x20000600                DMA2_Stream4_IRQHandler
+                0x20000600                USART1_IRQHandler
+                0x20000600                OTG_FS_IRQHandler
+                0x20000600                SPI3_IRQHandler
+                0x20000600                DMA1_Stream4_IRQHandler
+                0x20000600                I2C1_ER_IRQHandler
+                0x20000600                FMC_IRQHandler
+                0x20000600                DMA2_Stream6_IRQHandler
+                0x20000600                SAI1_IRQHandler
+                0x20000600                DMA1_Stream3_IRQHandler
+ *fill*         0x20000602        0x2 
+ .text.NMI_Handler
+                0x20000604        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x20000604                NMI_Handler
+ .text.HardFault_Handler
+                0x20000608        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x20000608                HardFault_Handler
+ .text.MemManage_Handler
+                0x2000060c        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x2000060c                MemManage_Handler
+ .text.BusFault_Handler
+                0x20000610        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x20000610                BusFault_Handler
+ .text.UsageFault_Handler
+                0x20000614        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x20000614                UsageFault_Handler
+ .text.SVC_Handler
+                0x20000618        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x20000618                SVC_Handler
+ .text.DebugMon_Handler
+                0x2000061c        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x2000061c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x20000620        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x20000620                PendSV_Handler
+ .text.LTDC_IRQHandler
+                0x20000624        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+                0x20000624                LTDC_IRQHandler
+ .text.SystemInit
+                0x20000630       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+                0x20000630                SystemInit
+ .text.HAL_MspInit
+                0x20000674        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                0x20000674                HAL_MspInit
+ .text.HAL_InitTick
+                0x20000678       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                0x20000678                HAL_InitTick
+ .text.HAL_Init
+                0x200006a4       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                0x200006a4                HAL_Init
+ .text.HAL_IncTick
+                0x200006d8       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                0x200006d8                HAL_IncTick
+ .text.HAL_GetTick
+                0x200006e8        0xc C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                0x200006e8                HAL_GetTick
+ .text.HAL_Delay
+                0x200006f4       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                0x200006f4                HAL_Delay
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x20000710       0x24 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+                0x20000710                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x20000734       0x7c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+                0x20000734                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x200007b0       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+                0x200007b0                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x200007c8       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+                0x200007c8                HAL_SYSTICK_Config
+ .text.HAL_LTDC_MspInit
+                0x200007f8        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                0x200007f8                HAL_LTDC_MspInit
+ .text.HAL_LTDC_Init
+                0x200007fc       0xe8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                0x200007fc                HAL_LTDC_Init
+ .text.HAL_LTDC_ErrorCallback
+                0x200008e4        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                0x200008e4                HAL_LTDC_ErrorCallback
+ .text.HAL_LTDC_LineEventCallback
+                0x200008e8        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                0x200008e8                HAL_LTDC_LineEventCallback
+ .text.HAL_LTDC_IRQHandler
+                0x200008ec       0xd0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                0x200008ec                HAL_LTDC_IRQHandler
+ .text.HAL_LTDC_ConfigLayer
+                0x200009bc      0x1a0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                0x200009bc                HAL_LTDC_ConfigLayer
+ .text.HAL_LTDC_SetAddress
+                0x20000b5c      0x15c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+                0x20000b5c                HAL_LTDC_SetAddress
+ .text.HAL_PWREx_EnableOverDrive
+                0x20000cb8       0x9c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+                0x20000cb8                HAL_PWREx_EnableOverDrive
+ .text.HAL_RCC_OscConfig
+                0x20000d54      0x300 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+                0x20000d54                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x20001054       0x74 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+                0x20001054                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x200010c8      0x17c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+                0x200010c8                HAL_RCC_ClockConfig
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x20001244      0x2d8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+                0x20001244                HAL_RCCEx_PeriphCLKConfig
+ .text.SPIx_Init.part.0
+                0x2000151c       0x94 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .text.LCD_IO_Init
+                0x200015b0       0xd8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+                0x200015b0                LCD_IO_Init
+ .text.LCD_IO_WriteData
+                0x20001688       0x68 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+                0x20001688                LCD_IO_WriteData
+ .text.LCD_IO_WriteReg
+                0x200016f0       0x68 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+                0x200016f0                LCD_IO_WriteReg
+ .text.LCD_IO_ReadData
+                0x20001758       0x9c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+                0x20001758                LCD_IO_ReadData
+ .text.LCD_Delay
+                0x200017f4        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+                0x200017f4                LCD_Delay
+ .text.BSP_LCD_Init
+                0x200017f8      0x21c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+                0x200017f8                BSP_LCD_Init
+ .text.BSP_LCD_DisplayChar
+                0x20001a14      0x104 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+                0x20001a14                BSP_LCD_DisplayChar
+ .text.BSP_LCD_DisplayStringAt
+                0x20001b18       0xd8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+                0x20001b18                BSP_LCD_DisplayStringAt
+ .text.BSP_SDRAM_Initialization_sequence
+                0x20001bf0       0x98 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+                0x20001bf0                BSP_SDRAM_Initialization_sequence
+ .text.BSP_SDRAM_Init
+                0x20001c88      0x1ec C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+                0x20001c88                BSP_SDRAM_Init
+ .text.HAL_DMA_Init
+                0x20001e74      0x12c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+                0x20001e74                HAL_DMA_Init
+ .text.HAL_DMA_DeInit
+                0x20001fa0       0x74 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+                0x20001fa0                HAL_DMA_DeInit
+ .text.HAL_GPIO_Init
+                0x20002014      0x270 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+                0x20002014                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x20002284        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+                0x20002284                HAL_GPIO_WritePin
+ .text.HAL_SDRAM_MspInit
+                0x2000228c        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+                0x2000228c                HAL_SDRAM_MspInit
+ .text.HAL_SDRAM_Init
+                0x20002290       0x44 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+                0x20002290                HAL_SDRAM_Init
+ .text.HAL_SDRAM_SendCommand
+                0x200022d4       0x30 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+                0x200022d4                HAL_SDRAM_SendCommand
+ .text.HAL_SDRAM_ProgramRefreshRate
+                0x20002304       0x28 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+                0x20002304                HAL_SDRAM_ProgramRefreshRate
+ .text.SPI_WaitFlagStateUntilTimeout
+                0x2000232c       0x98 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .text.HAL_SPI_MspInit
+                0x200023c4        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x200023c4                HAL_SPI_MspInit
+ .text.HAL_SPI_Init
+                0x200023c8       0x84 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x200023c8                HAL_SPI_Init
+ .text.HAL_SPI_MspDeInit
+                0x2000244c        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x2000244c                HAL_SPI_MspDeInit
+ .text.HAL_SPI_DeInit
+                0x20002450       0x2c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x20002450                HAL_SPI_DeInit
+ .text.HAL_SPI_Transmit
+                0x2000247c      0x26c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x2000247c                HAL_SPI_Transmit
+ .text.HAL_SPI_TransmitReceive
+                0x200026e8      0x2d4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x200026e8                HAL_SPI_TransmitReceive
+ .text.HAL_SPI_Receive
+                0x200029bc      0x298 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x200029bc                HAL_SPI_Receive
+ .text.HAL_SPI_GetState
+                0x20002c54        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+                0x20002c54                HAL_SPI_GetState
+ .text.FMC_SDRAM_Init
+                0x20002c5c       0x7c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+                0x20002c5c                FMC_SDRAM_Init
+ .text.FMC_SDRAM_Timing_Init
+                0x20002cd8       0x9c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+                0x20002cd8                FMC_SDRAM_Timing_Init
+ .text.FMC_SDRAM_SendCommand
+                0x20002d74       0x58 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+                0x20002d74                FMC_SDRAM_SendCommand
+ .text.FMC_SDRAM_ProgramRefreshRate
+                0x20002dcc       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+                0x20002dcc                FMC_SDRAM_ProgramRefreshRate
+ .text.ili9341_GetLcdPixelWidth
+                0x20002ddc        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                0x20002ddc                ili9341_GetLcdPixelWidth
+ .text.ili9341_GetLcdPixelHeight
+                0x20002de4        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                0x20002de4                ili9341_GetLcdPixelHeight
+ .text.ili9341_DisplayOn
+                0x20002de8        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                0x20002de8                ili9341_DisplayOn
+ .text.ili9341_DisplayOff
+                0x20002df0        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                0x20002df0                ili9341_DisplayOff
+ .text.ili9341_Init
+                0x20002df8      0x2b8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                0x20002df8                ili9341_Init
+ .text.ili9341_ReadID
+                0x200030b0       0x14 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                0x200030b0                ili9341_ReadID
+ .text.__libc_init_array
+                0x200030c4       0x48 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+                0x200030c4                __libc_init_array
+ .text.__retarget_lock_acquire_recursive
+                0x2000310c        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x2000310c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x20003110        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x20003110                __retarget_lock_release_recursive
+ .text.startup.register_fini
+                0x20003114       0x14 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .text.atexit   0x20003128        0xc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+                0x20003128                atexit
+ .text.__libc_fini_array
+                0x20003134       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+                0x20003134                __libc_fini_array
+ .text.__register_exitproc
+                0x2000315c       0x88 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x2000315c                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x200031e4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x200031e4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x200031e4        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x200031e4        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crti.o
+                0x200031e4                _init
+ .init          0x200031e8        0x8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x200031f0        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crti.o
+                0x200031f0                _fini
+ .fini          0x200031f4        0x8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtn.o
+                0x200031fc                . = ALIGN (0x4)
+                0x200031fc                _etext = .
+
+.vfp11_veneer   0x200031fc        0x0
+ .vfp11_veneer  0x200031fc        0x0 linker stubs
+
+.v4_bx          0x200031fc        0x0
+ .v4_bx         0x200031fc        0x0 linker stubs
+
+.iplt           0x200031fc        0x0
+ .iplt          0x200031fc        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x200031fc     0x2700
+                0x200031fc                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x200031fc        0x6 ./src/main.o
+ *(.rodata*)
+ *fill*         0x20003202        0x2 
+ .rodata.WypiszMenu.str1.4
+                0x20003204       0x2c ./src/main.o
+ .rodata.CSWTCH.4
+                0x20003230       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .rodata.APBAHBPrescTable
+                0x2000324c       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+                0x2000324c                APBAHBPrescTable
+ .rodata.Font16_Table
+                0x2000325c      0xbe0 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+                0x2000325c                Font16_Table
+ .rodata.Font24_Table
+                0x20003e3c     0x1ab8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+                0x20003e3c                Font24_Table
+ .rodata.flagBitshiftOffset.0
+                0x200058f4        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+                0x200058fc                . = ALIGN (0x4)
+
+.rel.dyn        0x200058fc        0x0
+ .rel.iplt      0x200058fc        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab      0x200058fc        0x0
+                0x200058fc                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x200058fc                . = ALIGN (0x4)
+
+.ARM            0x200058fc        0x0
+                0x200058fc                . = ALIGN (0x4)
+                0x200058fc                __exidx_start = .
+ *(.ARM.exidx*)
+                0x200058fc                __exidx_end = .
+                0x200058fc                . = ALIGN (0x4)
+
+.preinit_array  0x200058fc        0x0
+                0x200058fc                . = ALIGN (0x4)
+                0x200058fc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x200058fc                PROVIDE (__preinit_array_end = .)
+                0x200058fc                . = ALIGN (0x4)
+
+.init_array     0x200058fc        0x8
+                0x200058fc                . = ALIGN (0x4)
+                0x200058fc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x200058fc        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x20005900        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20005904                PROVIDE (__init_array_end = .)
+                0x20005904                . = ALIGN (0x4)
+
+.fini_array     0x20005904        0x4
+                0x20005904                . = ALIGN (0x4)
+                0x20005904                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x20005904        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20005908                PROVIDE (__fini_array_end = .)
+                0x20005908                . = ALIGN (0x4)
+                0x20005908                _sidata = LOADADDR (.data)
+
+.data           0x20028000       0x6c load address 0x20005908
+                0x20028000                . = ALIGN (0x4)
+                0x20028000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.AktualnaPozycjaMenu
+                0x20028000        0x1 ./src/main.o
+                0x20028000                AktualnaPozycjaMenu
+ *fill*         0x20028001        0x3 
+ .data.KolejnePozycjeMenu
+                0x20028004        0x4 ./src/main.o
+                0x20028004                KolejnePozycjeMenu
+ .data.MOCK_POS.0
+                0x20028008        0x4 ./src/main.o
+ .data.PoprzedniePozycjeMenu
+                0x2002800c        0x4 ./src/main.o
+                0x2002800c                PoprzedniePozycjeMenu
+ .data.PozycjePionoweWpisowMenu
+                0x20028010        0x8 ./src/main.o
+                0x20028010                PozycjePionoweWpisowMenu
+ .data.SystemCoreClock
+                0x20028018        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+                0x20028018                SystemCoreClock
+ .data.SpixTimeout
+                0x2002801c        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+                0x2002801c                SpixTimeout
+ .data.Font16   0x20028020        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+                0x20028020                Font16
+ .data.Font24   0x20028028        0x8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+                0x20028028                Font24
+ .data.ili9341_drv
+                0x20028030       0x38 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+                0x20028030                ili9341_drv
+ .data.__atexit_recursive_mutex
+                0x20028068        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x20028068                __atexit_recursive_mutex
+                0x2002806c                . = ALIGN (0x4)
+                0x2002806c                _edata = .
+
+.tm_clone_table
+                0x2002806c        0x0 load address 0x20005974
+ .tm_clone_table
+                0x2002806c        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x2002806c        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+
+.igot.plt       0x2002806c        0x0 load address 0x20005974
+ .igot.plt      0x2002806c        0x0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x2002806c                . = ALIGN (0x4)
+
+.bss            0x20028070      0x3f4 load address 0x20005974
+                0x20028070                _sbss = .
+                0x20028070                __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x20028070        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *fill*         0x20028071        0x3 
+ .bss.object.0  0x20028074       0x18 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.AppState  0x2002808c        0x1 ./src/main.o
+                0x2002808c                AppState
+ *fill*         0x2002808d        0x3 
+ .bss.ExtraDelay
+                0x20028090        0x4 ./src/main.o
+                0x20028090                ExtraDelay
+ .bss.KolejnaPozycjaMenu
+                0x20028094        0x1 ./src/main.o
+                0x20028094                KolejnaPozycjaMenu
+ *fill*         0x20028095        0x3 
+ .bss.MenuActivationTimer
+                0x20028098        0x4 ./src/main.o
+                0x20028098                MenuActivationTimer
+ .bss.MenuAnimationTimer
+                0x2002809c        0x4 ./src/main.o
+                0x2002809c                MenuAnimationTimer
+ .bss.ReloadFlag
+                0x200280a0        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+                0x200280a0                ReloadFlag
+ .bss.T_REAL    0x200280a4        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+                0x200280a4                T_REAL
+ .bss.uwTick    0x200280a8        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+                0x200280a8                uwTick
+ .bss.Is_LCD_IO_Initialized
+                0x200280ac        0x1 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ *fill*         0x200280ad        0x3 
+ .bss.SpiHandle
+                0x200280b0       0x58 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .bss.ActiveLayer
+                0x20028108        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .bss.DrawProp  0x2002810c       0x18 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .bss.LcdDrv    0x20028124        0x4 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+                0x20028124                LcdDrv
+ .bss.LtdcHandler
+                0x20028128       0xa8 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+                0x20028128                LtdcHandler
+ .bss.pLayerCfg
+                0x200281d0       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+                0x200281d0                pLayerCfg
+ *fill*         0x20028204        0x4 
+ .bss.Command   0x20028208       0x10 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .bss.SdramHandle
+                0x20028218       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ *fill*         0x2002824c        0x4 
+ .bss.Timing    0x20028250       0x1c C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .bss.dmaHandle.0
+                0x2002826c       0x60 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x200282cc        0x1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x200282cc                __lock___atexit_recursive_mutex
+ *fill*         0x200282cd        0x3 
+ .bss.__atexit  0x200282d0        0x4 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x200282d0                __atexit
+ .bss.__atexit0
+                0x200282d4      0x190 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x200282d4                __atexit0
+ *(COMMON)
+                0x20028464                . = ALIGN (0x4)
+                0x20028464                _ebss = .
+                0x20028464                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20028464      0x804 load address 0x20005974
+                0x20028468                . = ALIGN (0x8)
+ *fill*         0x20028464        0x4 
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20028468                . = (. + _Min_Heap_Size)
+                0x20028c68                . = (. + _Min_Stack_Size)
+ *fill*         0x20028468      0x800 
+                0x20028c68                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2c ./src/main.o
+ .ARM.attributes
+                0x00000078       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+ .ARM.attributes
+                0x000000a6       0x21 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(startup_stm32f429xx.o)
+ .ARM.attributes
+                0x000000c7       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+ .ARM.attributes
+                0x000000f5       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+ .ARM.attributes
+                0x00000123       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .ARM.attributes
+                0x00000151       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .ARM.attributes
+                0x0000017f       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .ARM.attributes
+                0x000001ad       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .ARM.attributes
+                0x000001db       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .ARM.attributes
+                0x00000209       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+ .ARM.attributes
+                0x00000237       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .ARM.attributes
+                0x00000265       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .ARM.attributes
+                0x00000293       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .ARM.attributes
+                0x000002c1       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+ .ARM.attributes
+                0x000002ef       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+ .ARM.attributes
+                0x0000031d       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .ARM.attributes
+                0x0000034b       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .ARM.attributes
+                0x00000379       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .ARM.attributes
+                0x000003a7       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .ARM.attributes
+                0x000003d5       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .ARM.attributes
+                0x00000403       0x2e C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .ARM.attributes
+                0x00000431       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .ARM.attributes
+                0x0000045f       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .ARM.attributes
+                0x0000048d       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x000004bb       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x000004e9       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .ARM.attributes
+                0x00000517       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x00000545       0x2e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000573       0x1e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(STMBASE.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libc.a
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libm.a
+LOAD c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libgcc.a
+
+.comment        0x00000000       0x33
+ .comment       0x00000000       0x33 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtbegin.o
+                                 0x34 (size before relaxing)
+ .comment       0x00000033       0x34 ./src/main.o
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(main_base.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_it.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(system_stm32f4xx.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_cortex.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_ltdc.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_pwr_ex.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_rcc_ex.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_lcd.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f429i_discovery_sdram.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font16.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(font24.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_dma.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_gpio.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_sdram.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_hal_spi.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(stm32f4xx_ll_fmc.o)
+ .comment       0x00000033       0x34 C:\Users\Dell Latitude\Desktop\ZaliczoneMIA\STMBASE\libstmbase.a(ili9341.o)
+ .comment       0x00000033       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .comment       0x00000033       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .comment       0x00000033       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .comment       0x00000033       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .comment       0x00000033       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .comment       0x00000033       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .comment       0x00000033       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp/crtend.o
+
+.debug_info     0x00000000      0xfee
+ .debug_info    0x00000000      0x58e ./src/main.o
+ .debug_info    0x0000058e      0x10b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_info    0x00000699      0x20a c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_info    0x000008a3      0x2dd c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_info    0x00000b80      0x118 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_info    0x00000c98       0xf7 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_info    0x00000d8f      0x25f c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+
+.debug_abbrev   0x00000000      0x927
+ .debug_abbrev  0x00000000      0x227 ./src/main.o
+ .debug_abbrev  0x00000227       0xc9 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_abbrev  0x000002f0      0x115 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_abbrev  0x00000405      0x20c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_abbrev  0x00000611       0xc1 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_abbrev  0x000006d2       0xcc c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_abbrev  0x0000079e      0x189 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+
+.debug_loclists
+                0x00000000      0x4b6
+ .debug_loclists
+                0x00000000      0x1ed ./src/main.o
+ .debug_loclists
+                0x000001ed       0x7a c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_loclists
+                0x00000267       0x23 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_loclists
+                0x0000028a      0x128 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_loclists
+                0x000003b2       0x2a c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_loclists
+                0x000003dc       0x4c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_loclists
+                0x00000428       0x8e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+
+.debug_aranges  0x00000000      0x130
+ .debug_aranges
+                0x00000000       0x60 ./src/main.o
+ .debug_aranges
+                0x00000060       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_aranges
+                0x00000080       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_aranges
+                0x000000a8       0x28 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_aranges
+                0x000000d0       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_aranges
+                0x000000f0       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_aranges
+                0x00000110       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+
+.debug_rnglists
+                0x00000000      0x109
+ .debug_rnglists
+                0x00000000       0x6e ./src/main.o
+ .debug_rnglists
+                0x0000006e       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_rnglists
+                0x00000081       0x19 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_rnglists
+                0x0000009a       0x35 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_rnglists
+                0x000000cf       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_rnglists
+                0x000000e2       0x13 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_rnglists
+                0x000000f5       0x14 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+
+.debug_macro    0x00000000     0xb496
+ .debug_macro   0x00000000       0x3f ./src/main.o
+ .debug_macro   0x0000003f      0xa84 ./src/main.o
+ .debug_macro   0x00000ac3      0x34e ./src/main.o
+ .debug_macro   0x00000e11     0xa3bb ./src/main.o
+ .debug_macro   0x0000b1cc      0x296 ./src/main.o
+ .debug_macro   0x0000b462       0x34 ./src/main.o
+
+.debug_line     0x00000000      0xd07
+ .debug_line    0x00000000      0x3ec ./src/main.o
+ .debug_line    0x000003ec      0x17e c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_line    0x0000056a      0x105 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_line    0x0000066f      0x2a8 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_line    0x00000917      0x104 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_line    0x00000a1b      0x136 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_line    0x00000b51      0x1b6 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+
+.debug_str      0x00000000    0x314c6
+ .debug_str     0x00000000    0x30e00 ./src/main.o
+                              0x30f63 (size before relaxing)
+ .debug_str     0x00030e00      0x1d3 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+                                0x262 (size before relaxing)
+ .debug_str     0x00030fd3      0x267 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                                0x374 (size before relaxing)
+ .debug_str     0x0003123a      0x106 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                                0x33e (size before relaxing)
+ .debug_str     0x00031340       0x9f c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+                                0x23e (size before relaxing)
+ .debug_str     0x000313df       0x7b c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+                                0x238 (size before relaxing)
+ .debug_str     0x0003145a       0x6c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                                0x315 (size before relaxing)
+
+.debug_frame    0x00000000      0x288
+ .debug_frame   0x00000000       0xc8 ./src/main.o
+ .debug_frame   0x000000c8       0x2c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_frame   0x000000f4       0xb0 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_frame   0x000001a4       0x5c c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_frame   0x00000200       0x20 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_frame   0x00000220       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_frame   0x00000254       0x34 c:/teemy/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
