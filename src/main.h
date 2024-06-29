@@ -15,6 +15,9 @@
 
 
 void WypiszMenu(void);
+unsigned int GetJoyPos(void);
+
+
 int main2(void) ;
 
 
